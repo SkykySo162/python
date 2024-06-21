@@ -12,4 +12,4 @@ elif x <= 49:
 elif x < 0:
     print("เกรด F")
 else:
-    print("กรอก 1-100 ไอตุ๊ด")
+    print("กรอก 1-100 Pls")
